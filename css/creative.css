@@ -66,9 +66,6 @@ p {
 
 section {
 		padding: 100px 0;
-		border-bottom-width:2px;
-		border-bottom-color:black;
-		border-bottom-style: solid;
 }
 
 aside {
@@ -491,6 +488,11 @@ body {
 
 #contact{
   background-color: #F49231;
+  color: white;
+}
+
+#contact a{
+  margin: 10px;
   color: white;
 }
 
