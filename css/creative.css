@@ -477,3 +477,20 @@ img::-moz-selection {
 body {
 		webkit-tap-highlight-color: #222;
 }
+
+#events{
+  background-color: #F49231;
+  color: white;
+}
+
+#events hr {
+    max-width: 50px;
+    border-color: #f05f40;
+    border-width: 3px;
+}
+
+#contact{
+  background-color: #F49231;
+  color: white;
+}
+
